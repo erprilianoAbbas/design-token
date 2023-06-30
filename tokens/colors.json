@@ -1,0 +1,222 @@
+{
+    "blue350": {
+      "value": "#1E83BA",
+      "type": "color"
+    },
+    "green300": {
+      "value": "#66b832",
+      "type": "color"
+    },
+    "blue200": {
+      "value": "#03a5e5",
+      "type": "color"
+    },
+    "blue250": {
+      "value": "#007bff",
+      "type": "color"
+    },
+    "grey250": {
+      "value": "#eae8e8",
+      "type": "color"
+    },
+    "white00": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "blue450": {
+      "value": "#1d4ed8",
+      "type": "color"
+    },
+    "blue400": {
+      "value": "#0062cc",
+      "type": "color"
+    },
+    "cyan100": {
+      "value": "#17a2b8",
+      "type": "color"
+    },
+    "purple300": {
+      "value": "#6f42c1",
+      "type": "color"
+    },
+    "blue100": {
+      "value": "#b7d0ea",
+      "type": "color"
+    },
+    "grey50": {
+      "value": "#f9f9f9",
+      "type": "color"
+    },
+    "grey100": {
+      "value": "#f2f2f2",
+      "type": "color"
+    },
+    "grey150": {
+      "value": "#f1f1f1",
+      "type": "color"
+    },
+    "grey200": {
+      "value": "#ebebeb",
+      "type": "color"
+    },
+    "grey300": {
+      "value": "#e3e3e1",
+      "type": "color"
+    },
+    "grey350": {
+      "value": "#d6d6d6",
+      "type": "color"
+    },
+    "grey400": {
+      "value": "#d3d3d3",
+      "type": "color"
+    },
+    "grey450": {
+      "value": "#d1d1d1",
+      "type": "color"
+    },
+    "grey500": {
+      "value": "#d5d5d5",
+      "type": "color"
+    },
+    "grey550": {
+      "value": "#c4c4c4",
+      "type": "color"
+    },
+    "grey575": {
+      "value": "#a9a9a9",
+      "type": "color"
+    },
+    "grey600": {
+      "value": "#7d7d7d",
+      "type": "color"
+    },
+    "grey650": {
+      "value": "#676767",
+      "type": "color"
+    },
+    "grey700": {
+      "value": "#3f3f46",
+      "type": "color"
+    },
+    "grey750": {
+      "value": "#2e2e2e",
+      "type": "color"
+    },
+    "black00": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "orange200": {
+      "value": "#b45309",
+      "type": "color"
+    },
+    "red100": {
+      "value": "#ff0000",
+      "type": "color"
+    },
+    "green400": {
+      "value": "#008000",
+      "type": "color"
+    },
+    "orange100": {
+      "value": "#ff8d07",
+      "type": "color"
+    },
+    "purple150": {
+      "value": "#dccbe8",
+      "type": "color"
+    },
+    "blue50": {
+      "value": "#d9ebff",
+      "type": "color"
+    },
+    "green50": {
+      "value": "#e0f1d6",
+      "type": "color"
+    },
+    "red50": {
+      "value": "#ffcbc3",
+      "type": "color"
+    },
+    "orange50": {
+      "value": "#f9d7a9",
+      "type": "color"
+    },
+    "yellow50": {
+      "value": "#fdf6bd",
+      "type": "color"
+    },
+    "purple100": {
+      "value": "#d2dcf7",
+      "type": "color"
+    },
+    "purple50": {
+      "value": "#fae8ff",
+      "type": "color"
+    },
+    "blue300": {
+      "value": "#0086bb",
+      "type": "color"
+    },
+    "blue500": {
+      "value": "#004da0",
+      "type": "color"
+    },
+    "cyan200": {
+      "value": "#187d8d",
+      "type": "color"
+    },
+    "blue550": {
+      "value": "#023e7e",
+      "type": "color"
+    },
+    "purple350": {
+      "value": "#42237a",
+      "type": "color"
+    },
+    "red150": {
+      "value": "#a10000",
+      "type": "color"
+    },
+    "green350": {
+      "value": "#4a8525",
+      "type": "color"
+    },
+    "green100": {
+      "value": "#d2f1be",
+      "type": "color"
+    },
+    "purple200": {
+      "value": "#5b83ca",
+      "type": "color"
+    },
+    "blue150": {
+      "value": "#82b8f5",
+      "type": "color"
+    },
+    "purple250": {
+      "value": "#951cbd",
+      "type": "color"
+    },
+    "yellow100": {
+      "value": "#fef102",
+      "type": "color"
+    },
+    "yellow500": {
+      "value": "#7a7400",
+      "type": "color"
+    },
+    "orange150": {
+      "value": "#f58225",
+      "type": "color"
+    },
+    "green150": {
+      "value": "#ddffa8",
+      "type": "color"
+    },
+    "green200": {
+      "value": "#09e409",
+      "type": "color"
+    }
+  }

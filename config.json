@@ -1,0 +1,39 @@
+{
+    "source": [
+      "./tokens/**/*.json"
+    ],
+    "platforms": {
+      "css": {
+        "buildPath": "build/css/",
+        "prefix": "sd",
+        "transformGroup": "tokens-studio",
+        "files": [
+          {
+            "destination": "_colors.css",
+            "format": "css/variables"
+          }
+        ]
+      },
+      "js": {
+        "buildPath": "build/js/",
+        "transformGroup": "tokens-studio",
+        "files": [
+          {
+            "destination": "colors.js",
+            "format": "javascript/es6"
+          }
+        ]
+      },
+      "ts": {
+        "buildPath": "build/ts/",
+        "prefix": "",
+        "transformGroup": "tokens-studio",
+        "files": [
+          {
+            "destination": "colors.ts",
+            "format": "typescript/module-declarations"
+          }
+        ]
+      }
+    }
+  }

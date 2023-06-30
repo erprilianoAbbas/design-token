@@ -1,0 +1,16 @@
+{
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "description": "A repo for trial using design tokens in figma for developers",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build --config config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erprilianoAbbas",
+  "license": "ISC",
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.9.10",
+    "style-dictionary": "^3.8.0"
+  }
+}
