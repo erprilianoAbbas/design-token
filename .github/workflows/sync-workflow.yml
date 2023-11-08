@@ -14,6 +14,7 @@ jobs:
       - name: Run Github File Sync
         uses: BetaHuhn/repo-file-sync-action@v1
         with:
+          GH_PAT: ${{secrets.DESIGN_TOKEN_PAT}}
           COMMIT_BODY: "Synced file(s) with design-tokens repo"
           SKIP_PR: true
           GIT_EMAIL: "erprilianosaputra.abbas@medirecords.com"
