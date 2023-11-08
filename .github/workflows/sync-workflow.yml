@@ -1,0 +1,20 @@
+name: Sync files
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@master
+      - name: Run Github File Sync
+        uses: BetaHuhn/repo-file-sync-action@v1
+        with:
+          COMMIT_BODY: "Synced file(s) with design-tokens repo"
+          SKIP_PR: true
+          GIT_EMAIL: "erprilianosaputra.abbas@medirecords.com"
+          GIT_USERNAME: "erprilianoAbbas"

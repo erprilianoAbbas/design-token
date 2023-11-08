@@ -1,0 +1,6 @@
+group:
+  - repos: |
+      erprilianoAbbas/react-training@master
+    files:
+      - source: sync/
+        dest: sync/
